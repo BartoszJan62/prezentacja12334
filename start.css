@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+img{
+    margin-left: 45%;
+    margin-right: 45%;
+}
+#opis{
+    text-shadow: 1px 1px 2px black;
+    color: white;
+    text-align: justify ;
+}
+html{
+    background-image: url(ksi.jpg);
+    background-attachment: fixed;
+}
+#zalety{
+    text-shadow: 1px 1px 2px black;
+    color: white;
+    text-align: justify ;
+}
+a{
+    text-decoration: dotted;
+    font-size: 250px;
+    margin-left: 50%;
+    transform: translate(0px, 0px);
+}
+a:hover{
+    text-decoration: dotted;
+    font-size: 250px;
+    margin-left: 50%;
+    color: aqua;
+    margin-left: 60%;
+}

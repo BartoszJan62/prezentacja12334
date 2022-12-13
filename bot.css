@@ -1,0 +1,39 @@
+html{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+}
+#opis{
+    border: 90%;
+    border-radius: 10%;
+    background-color: rgba(0, 119, 255, 0.781);
+}
+blockquote{
+    color: gray;
+    font-style: oblique;
+}
+blockquote:hover{
+    transform: scale(105%);
+    border: 100%;
+    background-color: aquamarine;
+}
+img{
+    margin-top: 30px;
+}
+#label{
+    margin-left: 19px;
+}
+a{
+    text-decoration: dotted;
+    font-size: 250px;
+    margin-left: 50%;
+    transform: translate(0px, 0px);
+}
+a:hover{
+    text-decoration: dotted;
+    font-size: 250px;
+    margin-left: 50%;
+    color: rgb(43, 168, 39);
+    margin-left: 60%;
+}
